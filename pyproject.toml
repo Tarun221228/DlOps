@@ -1,0 +1,25 @@
+[project]
+name = "dlops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dvc>=3.64.1",
+    "ensure==1.0.2",
+    "flask>=3.1.2",
+    "flask-cors>=6.0.1",
+    "joblib>=1.5.2",
+    "matplotlib>=3.10.7",
+    "notebook>=7.5.0",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "python-box==6.0.2",
+    "pyyaml>=6.0.3",
+    "requests>=2.32.5",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.20.0",
+    "tqdm>=4.67.1",
+    "types-pyyaml>=6.0.12.20250915",
+]
